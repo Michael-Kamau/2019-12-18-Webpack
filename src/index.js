@@ -1,3 +1,3 @@
-import {mytest} from "./myscripts";
+
 import './styles/sass/styles.scss';
-console.log(mytest("FUNCTION VARIABLE"));
+import {app} from './Vuejs/main.js' 
